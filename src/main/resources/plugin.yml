@@ -1,0 +1,11 @@
+name: KoTH
+version: ${version}
+main: net.nighthawkempires.koth.KoTHPlugin
+description: Nighthawk Empires' KoTH Plugin.
+author: NoneVale_
+api-version: 1.18
+depend: [Core]
+commands:
+  koth:
+    usage: </command>
+    description: KoTH command for Nighthawk Empires' KoTH Plugin.
